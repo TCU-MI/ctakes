@@ -92,13 +92,13 @@
       <nameValuePair>
         <name>ctakes.umlsuser</name>
         <value>
-          <string>YOUR_UMLS_USERNAME_HERE</string>
+          <string>foxb1249</string>
         </value>
       </nameValuePair> 
       <nameValuePair>
         <name>ctakes.umlspw</name>
         <value>
-          <string>YOUR_UMLS_PASSWORD_HERE</string>
+          <string>GaduoUMLS@)!$</string>
         </value>
       </nameValuePair>                      
     </configurationParameterSettings>
